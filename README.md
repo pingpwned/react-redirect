@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# App Description
+
+This app should act as a Single Sign-On. It redirects incoming request with POST method and token data.
+
 ## Available Scripts
 
 In the project directory, you can run:
