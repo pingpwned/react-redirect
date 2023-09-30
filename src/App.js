@@ -13,7 +13,7 @@ function App() {
     const input = document.createElement("input");
     input.type = "hidden";
     input.name = "token"; // Replace with the actual field name for your data
-    input.value = "world"; // Convert your data to JSON and set as value
+    input.value = "Hello from SSO"; // Convert your data to JSON and set as value
 
     // Append the input to the form and add the form to the document
     form.appendChild(input);
